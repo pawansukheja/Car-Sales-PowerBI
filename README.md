@@ -34,3 +34,15 @@ I am thrilled to share the success of our recent Car Sales project. Our objectiv
 •	Analyze reasons behind Week 40's sales dip and provide filters for Body Style, Dealer, Transmission, and Engine.
 •	Provide filters for Body Style, Dealer, Transmission, and Engine.
 Overall: The car dealership is experiencing strong sales growth, led by SUV and hatchback models. Regional performance varies, and customer demographics highlight a predominantly male clientele with income influencing buying behavior. Investigating the Week 40 sales dip might reveal valuable insights
+
+
+
+![Car Sales Dashboard](https://github.com/pawansukheja/Car-Sales-PowerBI/assets/163865690/d4ffb3fe-f1cb-4dfd-a9ae-4b283ea1a8e9)
+
+
+
+![Car Sales Details Tab](https://github.com/pawansukheja/Car-Sales-PowerBI/assets/163865690/6e167aa5-41e2-4747-b591-65b3df532654)
+
+
+
+
