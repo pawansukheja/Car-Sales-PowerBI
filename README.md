@@ -36,13 +36,12 @@ I am thrilled to share the success of our recent Car Sales project. Our objectiv
 Overall: The car dealership is experiencing strong sales growth, led by SUV and hatchback models. Regional performance varies, and customer demographics highlight a predominantly male clientele with income influencing buying behavior. Investigating the Week 40 sales dip might reveal valuable insights
 
 
-
-![Car Sales Dashboard](https://github.com/pawansukheja/Car-Sales-PowerBI/assets/163865690/d4ffb3fe-f1cb-4dfd-a9ae-4b283ea1a8e9)
-
+Live Dashboard - https://app.powerbi.com/view?r=eyJrIjoiMmZjYmI2ZWYtZmUxNS00NDg1LWJiZjEtMDI2Yjk5MWQxZWUyIiwidCI6IjdjYWI2MjRmLTM4YzYtNDQ2MS1hYWIzLThjNmYxZmUwODZlYyJ9
 
 
-![Car Sales Details Tab](https://github.com/pawansukheja/Car-Sales-PowerBI/assets/163865690/6e167aa5-41e2-4747-b591-65b3df532654)
+![Car Sales Analysis Report](https://github.com/pawansukheja/Car-Sales-PowerBI/assets/163865690/01910d96-23f8-41c4-8e1b-6c6b69859515)
 
+![Car Sales Analysis Details](https://github.com/pawansukheja/Car-Sales-PowerBI/assets/163865690/b2f75ddc-49c0-47c7-886e-45abcc656a43)
 
-
+![Car Sales Model View](https://github.com/pawansukheja/Car-Sales-PowerBI/assets/163865690/048e826c-0bba-4d32-ae3c-77ee1f612ea8)
 
